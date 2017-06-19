@@ -1,10 +1,10 @@
 # verb [![NPM version](https://badge.fury.io/js/verb.svg)](http://badge.fury.io/js/verb)  [![Build Status](https://travis-ci.org/verbose/verb.svg)](https://travis-ci.org/verbose/verb)
 
-> Documentation generator for GitHub projects. Verb is extremely powerful, easy to use, and is used on hundreds of projects of all sizes to generate everything from API docs to readmes.
+> Documentation generator for GitHub projects. Verb is extremely powerful, easy to use, and is used on hundreds of projects of all sizes to generate everything from API docs to readme's.
 
 **Built by verb**
 
-The follow projects use verb to build the reamde and other docs:
+The follow projects use verb to build the readme and other docs:
 
 * [micromatch](https://github.com/jonschlinkert/micromatch/) (1.7m downloads/mo) - this readme is pretty extensive, with a TOC and other advanced features
 * [is-glob](https://www.npmjs.com/package/is-glob) (1.6m downloads/mo) - example of simple readme
